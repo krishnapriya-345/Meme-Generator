@@ -1,3 +1,11 @@
+A meme generator that fetches a random image and allows users to customize by adding their own text.
+
+![image](https://github.com/krishnapriya-345/Meme-Generator/assets/113005264/a7eebcbd-b50a-4e57-9ddc-4501e488ba8e)
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
